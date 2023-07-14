@@ -4,81 +4,108 @@ format:
         template: resume_template.tex
         font: Open Sans
         number-sections: false
-name: Morgan Squire, ACAS
+name: Colum McCoole
 # title: Data Scientist
-summary: Innovative Data Scientist and Actuary with six years of experience modernizing and automating analytical processes. Passionate about implementing software development best practices into model development.
+summary: I have been working at the intersection of finance and technology, with experience across buy-side and sell-side firms, including leading teams and directorships on boards of multiple entities.  I am keenly interested in bringing software development best-practices into the financial-services domain – from better analytics and investment platforms to better payments, funding and compliance models. Lately, my focus has been on cloud-based platform engineering for machine-learning use-cases ('MLOps'), enabling the life-cycle of model development from data-acquisition through to model-training and selection and on-going model auditing for business relevance and regulatory purposes.
 contact:
-    location: Riverview, FL
-    phone: (555) 555-5555
-    email: first.last@domain.com
+    location: Dublin, Ireland
+    phone: available on request
+    email: colum.mccoole@analect.com
 portfolio:
-    linkedin: \href{https://www.linkedin.com/in/yournamehere/}{yournamehere}
-    github: \href{https://github.com/mosquire}{mosquire}
+    linkedin: \href{https://www.linkedin.com/in/colum-mccoole-746b946a/}{colum-mccoole-746b946a}
+    github: \href{https://github.com/analect}{analect}
 skills:
-    - Languages:
-        - Python
-        - R
-        - SQL
-        - Latex
+    - Soft Skills:
+        - Self-starter
+        - Team-oriented
+        - Experienced leader 
+        - Collaborator
+        - Motivated
+    - Finance:
+        - Financial modelling
+        - Convertible Bonds
+        - Credit Derivatives
+        - Financial Control
+        - Documentation
     - Development Tools:
-        - Git
-        - VSCode
+        - Git / Github / Gitlab
+        - Python / R / SQL
         - RStudio
-        - JupyterLab
+        - JupyterLab/Sagemaker
         - Conda
-    - Statistical Modeling:
-        - Generalized Linear Modeling
-        - Generalized Additive Modeling
-        - Downsampling/Upweighting
-        - Regularization
-        - Tree-Based Machine Learning
-    - Data:
-        - Hive
-        - Parquet
-        - Snowflake
-        - Partitioning
-        - JSON
-    - Package Development:
-        - Unit Testing
-        - Docstrings/Roxygen
-        - Logging
-        - Debugging
-        - Markdown
+    - Platform Engineering:
+        - AWS Solutions Architect
+        - Serverless (CDK, SAM)
+        - Argo CD /Argo Workflows
+        - Backstage (IDPs)
+        - Kubernetes / GitOps
+    - Data / ML:
+        - Parquet / Arrow
+        - Polars / Pandas
+        - Kubeflow / Metaflow
+        - Hugging Face
+        - Ludwig AutoML
 ---
 # Experience
 
-## USAA: 2016 - Present
+## Founder, Analect Limited (Dublin) :2021 - present
 
-### Associate Actuary, 2020 - Present:
+* Developing platform engineering solutions for running cloud-based machine-learning workloads on either self-hosted kubernetes or serverless systems.
 
-* Overhauled the Homeowners loss models to incorporate claim type into claim surcharges to reduce subsidy
-* Led a team of 4 in the development of an internal Python package using H2O and scikit-learn
-* Reduced model fit times by 50% by implementing a model pipeline cache
-* Mentored Data Scientists and Actuaries on Python package development to include unit testing, documentation, website publishing, logging, debugging, and git branching strategies.
-* Designed and delivered 6 hours of interactive training for a team of 12 model developers including a tutorial Git repository that covered Python, Git, H2O and an internal model development Python package
-* Established 14 virtual machines to enable a team of model developers to fit models on a 40 GB dataset in H2O
-* Presented complex technical improvements to executive leadership on multiple occasions
+## Executive Director, UBS (Dublin and Zurich) :2018 - 2021
 
-### Actuarial Analyst, 2017 - 2020:
+* Involved in the development and roll-out of the UBS Partner solution, a division of UBS. 
+* It is a cloud-based technology platform for the delivery of advisory capabilities to third-party financial institutions globally.
+* UBS Partner enables them to systematically offer customised advice to their end clients.
+* At the time of implementation, this was one of the pioneering externally-facing fintech projects within UBS to leverage cloud technologies involving the data-intensive processing of sensitive third-party institutional end-client data.
+* I was part of business management, acted in an Operating-Officer capacity for the broader group, actively engaging, in person, with the technology implementation group, in Basel, and business management, in Zurich.
+* Dual directorships on the Boards of Irish and Swiss entities; full oversight of Irish entity (team of four), including financial control.
 
-* Developed an advanced process for territorial smoothing using thin-plate splines in a Generalized Additive Model in R
-* Coordinated with the Texas Department of Insurance to secure approval of a new capital allocation strategy
-* Designed and published an internal R package with tools for connecting to company databases and estimating within-class and between-class variance
-* Trained the modeling community of practice on R package development tailored to internal systems
-* Optimized deductible rating factors using R to calculate granular loss elimination ratios which enabled the rollout of new deductible options
-* Filed rate changes in Homeowners, Renters, and Rental Property lines of business in several states
+## Founder, Analect Limited (Dublin) :2013 - 2017
 
-### Actuarial Modeling Intern, 2016:
+* Leveraging mainly open-source technologies to develop a financial analysis platform for analysts to evolve and collaborate on investible ideas using the latest data-science tooling.
+* Motivated by a realisation that finance professionals can learn and profit from following best-practices embedded in software development, especially in a data-intensive finance domain.
+* Architected system and part self-developed as well as funded team of developers to iterate on aspects of the system towards a working prototype for initial client trials.
 
-* Adjusted the countrywide Homeowners model to meet state-specific requirements
-* Designed an Excel VBA program to automatically generate model performance plots from model outputs.
+## Director, Tantallon Capital Advisors (Singapore and Zurich) :2006 - 2012
 
-# Education
+* Worked as part of an experienced Asia / Emerging-markets investment team with long/short and long-biased institutional mandates for listed equities.
+* Instrumental in designing and building information systems that underpinned the investment process and adequately fulfilled a broad investment remit.
+* As part of the Tantallon team, I gained broad industry / geographic experience, including oversight for global macro / cross-asset insights to various portfolio managers.
 
-### Bachelor of Science in Applied Mathematics: December 2016
+## Head of Research, Plutus Capital (London) :2004 - 2006
 
-University of Evansville, Summa Cum Laude
+* Part of a team that ran a global multi-strategy fund, which broadened my experience beyond convertibles into credit derivatives and long/short equities.
+* As a hedge fund start-up, I was involved in all aspects of establishing the business, including implementing trading systems and developing analytical and risk management systems.
 
-# Credentials
+## Executive Director, Morgan Stanley (London) :1996 - 2004
 
-### Associate of the Casualty Actuarial Society: 2019
+* Recruited, trained and managed a team of analysts supporting the international (non-US) convertible bond business at Morgan Stanley during a period of massive growth in that asset-class that spanned varied market conditions – initially very technical-biased convertible arbitrage, through to a more credit-driven bias post the dot-com era.
+* Efforts culminated in being ranked #1 Institutional Investor All Europe Research analyst three years running (2000 through 2002).
+
+## Financial Analyst, W.I. Carr (Far East) Ltd. (Hong Kong) :1993 - 1996
+
+* Worked in various functions: as a member of a team of regional analysts looking at Asia-wide investible themes; developed research products on a host of OTC-traded and option products, including Asian convertible bond research.
+* Benefited from submergence in a high-growth phase of Asian financial markets.
+
+
+# Education / Certifications
+
+### AWS Certified Solutions Architect - Professional: 2023
+Issued: June 2023    Expires: June 2026
+
+### Master of Business Studies (MBS): 1993
+University College Dublin (UCD), Ireland - 1st Class Honours
+
+### Bachelor of Commerce (BComm): 1992
+National University of Ireland (NUI), Galway, Ireland - 2.1
+
+# Awards
+
+### Institutional Investor: 2000 - 2002
+Ranked #1, three years running, for European Convertible Bond Research
+
+# Languages
+* English (monther tongue)
+* German (intermediate, B1, Goethe Zertifkat, 2022)
+* French (basic)
